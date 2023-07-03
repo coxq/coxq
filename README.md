@@ -1,3 +1,2 @@
-### Profile : Xu Bennett (coxq)
-
-- _I am coder_
+### USER-AGENT (coxq)
+- _Developer_
